@@ -1,0 +1,7 @@
+
+services:
+  web:
+    build: .
+    container_name: booking_web
+    ports:
+      - 8000:8000
