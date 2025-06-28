@@ -6,7 +6,7 @@
 
 - install docker
 - cd `booker`
-- run `docker compose up`9 AM - 10 AM
+- run `docker compose up`
 
 ## Unique Selling Points:
 
